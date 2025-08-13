@@ -1,7 +1,7 @@
 ---
 author: Joe Doe
 pubDatetime: 2025-08-13T15:42:49Z
-modDatetime: 2025-08-13T15:42:49Z
+modDatetime: 2025-08-13T16:12:49Z
 title: Primer Post en mi blog
 slug: primer-post-en-mi-blog
 featured: true
@@ -9,7 +9,7 @@ draft: false
 tags:
   - configuration
   - docs
-description: A comprehensive guide on the topic.
+description: Mi primera publicación en mi Blog.
 ---
 
 ## Table of contents
